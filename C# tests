@@ -1,0 +1,9 @@
+using system
+namespace HelloWorld Application{
+  Class HelloWorld{
+    Static Void Main(string[] args){
+      console.writeline("hello world");
+      console.Readkey();
+    }
+  }
+}
